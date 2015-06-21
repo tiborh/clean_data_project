@@ -34,6 +34,7 @@
 [34] "ytrain.path"       
 
 ## files used from the unzipped data:
+<pre>
 a. ./UCI_HAR_Dataset:
 b. activity_labels.txt   gives the data in the activity column replacing numbers from y_....txt files
 c. features.txt          gives the data to the column headings (except for columns 1,2 and 564)
@@ -47,3 +48,4 @@ f. ./UCI_HAR_Dataset/train:
 e. subject_train.txt     gives column 1 (named subject) in combined2.dat
 g. X_train.txt           gives columns 3 to 563 in combined2.dat
 h. y_train.txt           gives colum 2 (named activity) in combined2.dat
+</pre>
